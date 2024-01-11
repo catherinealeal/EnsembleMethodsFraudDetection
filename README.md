@@ -69,4 +69,4 @@ Savings with Random Forests: $7601.00
 
 The bank will save about $7601 if they deploy the Random Forest algorithm to detect fraud.
 
-View full notebook [here](https://github.com/catherinealeal/EnsembleMethodsFraudDetection/blob/main/EnsembleMethodsFraudDetection.ipynb)
+### View full notebook [here](https://github.com/catherinealeal/EnsembleMethodsFraudDetection/blob/main/EnsembleMethodsFraudDetection.ipynb)
