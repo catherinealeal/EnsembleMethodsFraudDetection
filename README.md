@@ -61,8 +61,9 @@ Rules:
 - For every fraudulent transaction that is not predicted as fraudulent, the bank looses twice the value of the transaction.  
 - If a charge is predicted as fradulent, but wasn't, it costs the bank a flat fee of €3 in customer service support to communicate with the customer, and mark the possible fraud as a normal transaction.
 
-Savings with AdaBoost: 6314.199999999999
-Savings with Random Forests: 7600.999999999999
+Savings with AdaBoost: $6314.20
+
+Savings with Random Forests: $7601.00
 
 ## Conclusion 
 
